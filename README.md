@@ -159,7 +159,7 @@ Add Sepolia Testnet to MetaMask:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Vashishta-Mithra-Reddy/Vikraya.git
+   git clone https://github.com/vxshta/Vikraya.git
    cd Vikraya
    ```
 
@@ -969,6 +969,6 @@ This project was inspired by the need to empower farmers with direct market acce
 
 **Built with ❤️ for farmers worldwide**
 
-[🌾 Live Demo](https://vikraya.vercel.app) | [📖 Documentation](https://github.com/Vashishta-Mithra-Reddy/Vikraya/wiki) | [🐛 Report Bug](https://github.com/Vashishta-Mithra-Reddy/Vikraya/issues) | [💡 Request Feature](https://github.com/Vashishta-Mithra-Reddy/Vikraya/issues)
+[🌾 Live Demo](https://vikraya.vercel.app) | [📖 Documentation](https://github.com/vxshta/Vikraya/wiki) | [🐛 Report Bug](https://github.com/vxshta/Vikraya/issues) | [💡 Request Feature](https://github.com/vxshta/Vikraya/issues)
 
 </div>
